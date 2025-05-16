@@ -38,6 +38,7 @@ _This demo does not connect to your Dynatrace account. It’s meant to preview t
 
 ![App Login](./img/login.png)
 ![App Dashboard](./img/dashboard.png)
+![App Config](./img/config_list.png)
 
 ---
 ## 📩 Want Early Access?
