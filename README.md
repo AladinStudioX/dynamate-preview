@@ -34,6 +34,12 @@ _This demo does not connect to your Dynatrace account. It’s meant to preview t
 
 ---
 
+## Screenshots
+
+![App Login](./img/login.png)
+![App Dashboard](./img/dashboard.png)
+
+---
 ## 📩 Want Early Access?
 
 Be part of the pre-release group and help shape the future of Dynamate.
@@ -72,5 +78,8 @@ Want to follow the project or get in touch?
 🔗 [Connect on LinkedIn](https://linkedin.com/in/yourname)
 
 ---
+## Authors
+
+- [@Aladdin-97](https://www.github.com/Aladdin-97)
 
 > _This repository is for public documentation and visibility only. Source code is not published at this time._
