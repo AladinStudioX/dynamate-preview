@@ -34,7 +34,7 @@ _This demo does not connect to your Dynatrace account. It’s meant to preview t
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Login](./img/login.png)
 ![App Dashboard](./img/dashboard.png)
@@ -79,7 +79,7 @@ Want to follow the project or get in touch?
 🔗 [Connect on LinkedIn](https://linkedin.com/in/yourname)
 
 ---
-## Authors
+## 👨‍💻Authors
 
 - [@Aladdin-97](https://www.github.com/Aladdin-97)
 
