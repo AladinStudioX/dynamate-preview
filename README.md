@@ -3,7 +3,7 @@
 Deploy, configure, and monitor your app on Dynatrace in minutes.
 Dynamate is a self-service web interface that lets you quickly build Dynatrace configuration pipelines using intuitive guided forms and built-in best practices — no complex YAML, Jenkins, or pipeline setup required.
 
-#### 🔧 No YAML. No Jenkins. Just structured, automated observability.
+
 ---
 ## 🚀 What It Does
 
