@@ -1,16 +1,19 @@
 # Dynamate – Dynatrace Configuration Made Simple
 
-Dynamate is a self-service web interface that helps you build **Dynatrace configuration pipelines** using guided forms and built-in best practices — without writing YAML or maintaining Jenkins pipelines.
+Deploy, configure, and monitor your app on Dynatrace in minutes.
+Dynamate is a self-service web interface that lets you quickly build Dynatrace configuration pipelines using intuitive guided forms and built-in best practices — no complex YAML, Jenkins, or pipeline setup required.
 
 #### 🔧 No YAML. No Jenkins. Just structured, automated observability.
 ---
 ## 🚀 What It Does
 
-- ✅ Build Dynatrace configurations using easy-to-use forms  
-- ✅ Automatically follows Dynatrace monitoring best practices  
-- ✅ Simplifies tagging, MZs, alerting, notifications, dashboards  
-- ✅ **Demo mode** available — simulate what the tool can do  
-- ✅ Enables fast, consistent setup for modern cloud-native apps
+- ✅ Build Dynatrace configurations using easy, gamified forms  
+- ✅ Apply configurations that follow Dynatrace best practices  
+- ✅ Automate complete monitoring setup for your app—tagging, management zones, alerting profiles, notifications, and dashboards included  
+- ✅ Enable fast and consistent Dynatrace setup for modern cloud-native applications  
+- ✅ Track the status of every applied configuration and delete it with a single click when no longer needed  
+- ✅ **Demo mode** available — experience the tool’s capabilities without connecting to your environment  
+
 
 ---
 
@@ -18,9 +21,9 @@ Dynamate is a self-service web interface that helps you build **Dynatrace config
 
 This tool is made for:
 
-- **DevOps / SRE / Platform teams** who use Dynatrace  
-- **Observability teams** who want to offer self-service monitoring  
-- **Developers** who need monitoring without dealing with YAML or Jenkins  
+- **DevOps / SRE / Platform teams** working with the Dynatrace platform
+- **Observability teams** looking to enable self-service monitoring for their organization   
+- **Developers** who want fast, easy monitoring without the hassle of YAML or Jenkins or Using Dyntrace UI.
 
 ---
 
@@ -32,13 +35,6 @@ You can test-drive the experience by logging in as a demo user:
 
 _This demo does not connect to your Dynatrace account. It’s meant to preview the user interface and flow._
 
----
-
-## 📸 Screenshots
-
-![App Login](./img/login.png)
-![App Dashboard](./img/dashboard.png)
-![App Config](./img/config_list.png)
 
 ---
 ## 📩 Want Early Access?
@@ -55,6 +51,13 @@ We’d love to hear from you — what’s painful about configuring Dynatrace to
 
 📝 [Share your thoughts](https://tally.so/r/nGy672)
 
+---
+
+## 📸 Screenshots
+
+![App Login](./img/login.png)
+![App Dashboard](./img/dashboard.png)
+![App Config](./img/config_list.png)
 ---
 
 ## ❓ Frequently Asked Questions
