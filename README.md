@@ -11,7 +11,11 @@
 ![Logo](./img/logo.png)
 Deploy, configure, and monitor your app on Dynatrace in minutes.
 Dynamate is a self-service web interface that lets you quickly build Dynatrace configuration pipelines using intuitive guided forms and built-in best practices — no complex YAML, Jenkins, or pipeline setup required.
-
+<p align="center">
+    <a href="#readme">
+        <img alt="Dynamate Demo" src="https://raw.githubusercontent.com/AladinStudioX/dynamate-preview/main/img/demo.gif">    
+    </a>
+</p>
 ---
 ## 🚀 What It Does
 
@@ -60,14 +64,14 @@ We’d love to hear from you — what’s painful about configuring Dynatrace to
 📝 [Share your thoughts](https://tally.so/r/nGy672)
 
 ---
-
+ <!-- commented for demo gif 
 ## 📸 Screenshots
 
 ![App Login](./img/login.png)
 ![App Dashboard](./img/dashboard.png)
 ![App Config](./img/config_list.png)
 ---
-
+-->
 ## ❓ Frequently Asked Questions
 
 Looking for more details?
