@@ -7,15 +7,18 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# Dynamate – Dynatrace Configuration Made Simple
-![Logo](./img/logo.png)
-Deploy, configure, and monitor your app on Dynatrace in minutes.
-Dynamate is a self-service web interface that lets you quickly build Dynatrace configuration pipelines using intuitive guided forms and built-in best practices — no complex YAML, Jenkins, or pipeline setup required.
 <p align="center">
     <a href="#readme">
         <img alt="Dynamate Demo" src="https://raw.githubusercontent.com/AladinStudioX/dynamate-preview/main/img/demo.gif">    
     </a>
 </p>
+
+
+# Dynamate – Dynatrace Configuration Made Simple
+<!-- ![Logo](./img/logo.png) -->
+Deploy, configure, and monitor your app on Dynatrace in minutes.
+Dynamate is a self-service web interface that lets you quickly build Dynatrace configuration pipelines using intuitive guided forms and built-in best practices — no complex YAML, Jenkins, or pipeline setup required.
+
 ---
 ## 🚀 What It Does
 
