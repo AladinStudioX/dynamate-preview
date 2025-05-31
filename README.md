@@ -13,6 +13,9 @@
     </a>
 </p>
 
+# Status - Not A Dynatrace OFFICIAL product
+Currently it's in Developing and Test Phase 
+
 
 # Dynamate – Dynatrace Configuration Made Simple
 <!-- ![Logo](./img/logo.png) -->
@@ -94,7 +97,7 @@ We **do not** share or expose your credentials. Learn more on the website.
 
 Want to follow the project or get in touch?
 
-🔗 [Connect on LinkedIn](https://linkedin.com/in/yourname)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/moin-uddin-ba0643153/)
 
 ---
 ## 👨‍💻Authors
